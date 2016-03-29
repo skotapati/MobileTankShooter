@@ -167,6 +167,7 @@
      <Compile Include="Assets\Photon Unity Networking\UtilityScripts\TimeKeeper.cs" />
      <Compile Include="Assets\PixelCamera2D\Scripts\PixelCamera2D.cs" />
      <Compile Include="Assets\PixelCamera2D\Scripts\PixelCamera2DBehaviour.cs" />
+     <Compile Include="Assets\Uimovement.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\topdowntanks\license.txt" />
      <None Include="Assets\Photon Unity Networking\Demos\MarcoPolo-Tutorial\marcopolo-readme.txt" />
